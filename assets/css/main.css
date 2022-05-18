@@ -76,6 +76,9 @@ body {
 	font-size: 180%;
 	margin-bottom: 0px;
 }
+.about-padding {
+	margin-top: 20px;
+}
 
 .about-content {
 	padding-left: 20px;
