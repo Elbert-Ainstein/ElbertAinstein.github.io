@@ -45,6 +45,7 @@ body {
 	min-height: 150px;
 	display: flex;
 	width: auto;
+	margin-bottom: 12px;
 }
 .card-image {
 	width: auto;
