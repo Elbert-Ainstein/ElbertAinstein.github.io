@@ -1,13 +1,1 @@
-A portfolio
-
-Credits:
-
-	Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+<h1> Elbert's Portfolio </h1>
