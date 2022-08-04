@@ -46,6 +46,7 @@ body {
 	display: flex;
 	width: auto;
 	margin-bottom: 12px;
+	
 }
 .card-image {
 	width: auto;
@@ -53,6 +54,7 @@ body {
 	flex: none;
 	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
+	padding: 10px;
 }
 .card-major {
 	font-weight: bold;
